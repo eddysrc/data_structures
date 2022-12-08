@@ -1,7 +1,5 @@
 /**
- * Students info:
- * eddym 318733532
- * chenmichaeli 208419671
+ * Eddy Movshovich & Chen Michaeli
  */
 /**
  * FibonacciHeap
